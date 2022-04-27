@@ -13,7 +13,7 @@
 #define PERIOD (125-1)
 
 #elif F_CPU==2000000
-// varianta pro 2MHz
+//  2MHz
 #define _PRESCALER TIM4_PRESCALER_16
 #define _PERIOD (125-1)
 
